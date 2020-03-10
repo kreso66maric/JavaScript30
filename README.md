@@ -10,3 +10,7 @@
 ### 08.03.2020 **javascript-drum-kit-01**
 * How to work with `data` attributes in HTML
 * How to work with audio and video
+
+### 09.03.2020 **javascript-and-css-clock-02**
+* Working with time in JavaScript
+* Learning more about how to combine CSS transform property with JavaScript
