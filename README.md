@@ -14,3 +14,7 @@
 ### 09.03.2020 **javascript-and-css-clock-02**
 * Working with time in JavaScript
 * Learning more about how to combine CSS transform property with JavaScript
+
+### 10.03.2020 **css-variables-03**
+* How to use CSS variables and update them in real-time using JavaScript
+* More practise with data attributes
