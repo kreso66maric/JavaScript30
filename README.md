@@ -18,3 +18,7 @@
 ### 10.03.2020 **css-variables-03**
 * How to use CSS variables and update them in real-time using JavaScript
 * More practise with data attributes
+
+### 11.03.2020 **array-cardio-day-one-04**
+* Working with array methods
+* Practise array methods like map, filter, sort, reduce
