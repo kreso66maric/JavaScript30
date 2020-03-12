@@ -22,3 +22,7 @@
 ### 11.03.2020 **array-cardio-day-one-04**
 * Working with array methods
 * Practise array methods like map, filter, sort, reduce
+
+### 12.03.2020 **flex-pannel-gallery-05**
+* I got more practise using flex-box
+* Learned how to toggle classes on elements using JavaScript
