@@ -26,3 +26,7 @@
 ### 12.03.2020 **flex-pannel-gallery-05**
 * I got more practise using flex-box
 * Learned how to toggle classes on elements using JavaScript
+
+### 13.03.2020 **ajax-type-ahead**
+* Learned how to take json data with promises and fetch method
+* and display the data on the page
