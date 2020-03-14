@@ -1,6 +1,6 @@
 # JavaScript30
 
-![JavaScript30 header image](https://github.com/kreso66maric/JavaScript30/blob/master/js30.png)
+![JavaScript30 header image](https://github.com/kreso66maric/JavaScript30/blob/master/js30.jpg)
 
 ### 30 days of JavaScript projects
 *Tutorials can be found on [wesbos.com](https://wesbos.com/)*
