@@ -27,6 +27,9 @@
 * I got more practise using flex-box
 * Learned how to toggle classes on elements using JavaScript
 
-### 13.03.2020 **ajax-type-ahead**
+### 13.03.2020 **ajax-type-ahead-06**
 * Learned how to take json data with promises and fetch method
 * and display the data on the page
+
+### 14.03.2020 **array-cardio-day-two-07**
+* Learned new array methods `.some()` `.every()` `.find()` and `.findIndex`
