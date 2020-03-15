@@ -33,3 +33,7 @@
 
 ### 14.03.2020 **array-cardio-day-two-07**
 * Learned new array methods `.some()` `.every()` `.find()` and `.findIndex`
+
+### 15.03.2020 **fun-with-html5-canvas-08**
+* Learned some new mouse events
+* Get to practise some html5 canvas
