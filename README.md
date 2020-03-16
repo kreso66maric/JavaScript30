@@ -37,3 +37,6 @@
 ### 15.03.2020 **fun-with-html5-canvas-08**
 * Learned some new mouse events
 * Get to practise some html5 canvas
+
+### 16.03.2020 **dev-tools-domination-09**
+* Learned different console logs in developer tools
