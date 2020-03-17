@@ -40,3 +40,6 @@
 
 ### 16.03.2020 **dev-tools-domination-09**
 * Learned different console logs in developer tools
+
+### 17.03.2020 **hold-shift-and-check-checkboxes-10**
+* Had to wrap my head around `this` keyword
