@@ -43,3 +43,6 @@
 
 ### 17.03.2020 **hold-shift-and-check-checkboxes-10**
 * Had to wrap my head around `this` keyword
+
+### 18.03.2020 **custom-html5-video-player-11**
+* Learned how to implement video player options
