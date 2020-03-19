@@ -46,3 +46,6 @@
 
 ### 18.03.2020 **custom-html5-video-player-11**
 * Learned how to implement video player options
+
+### 19.03.2020 **key-sequence-detection-12**
+* Quick practise with key detections
