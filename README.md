@@ -49,3 +49,7 @@
 
 ### 19.03.2020 **key-sequence-detection-12**
 * Quick practise with key detections
+
+### 20.03.2020 **javascript-references-vs-copying-14**
+* Learned difference between reference vs copying in JavaScript
+* Learned spread operator
