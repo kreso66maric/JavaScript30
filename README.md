@@ -53,3 +53,7 @@
 ### 20.03.2020 **javascript-references-vs-copying-14**
 * Learned difference between reference vs copying in JavaScript
 * Learned spread operator
+
+### 21.03.2020 **local-storage-15**
+* Learned how to store data in browser's local storage
+* Learned about event delegation
