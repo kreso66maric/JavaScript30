@@ -57,3 +57,6 @@
 ### 21.03.2020 **local-storage-15**
 * Learned how to store data in browser's local storage
 * Learned about event delegation
+
+### 22.03.2020 **mouse-move-shadow-16**
+* Learned ES6 destructuring
