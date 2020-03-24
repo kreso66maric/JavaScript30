@@ -60,3 +60,7 @@
 
 ### 22.03.2020 **mouse-move-shadow-16**
 * Learned ES6 destructuring
+
+### 23.03.2020 **sort-without-articles-17**
+* Learned more about sort method
+* Practiced some regEx
