@@ -64,3 +64,6 @@
 ### 23.03.2020 **sort-without-articles-17**
 * Learned more about sort method
 * Practiced some regEx
+
+### 24.03.2020 **adding-up-times-with-reduce-18**
+* More practise on reduce method
