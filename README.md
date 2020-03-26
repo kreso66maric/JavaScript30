@@ -67,3 +67,6 @@
 
 ### 24.03.2020 **adding-up-times-with-reduce-18**
 * More practise on reduce method
+
+### 25.03.2020 **web-cam-fun-19**
+* Learned how to set up web cam in a project
