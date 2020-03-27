@@ -70,3 +70,6 @@
 
 ### 25.03.2020 **web-cam-fun-19**
 * Learned how to set up web cam in a project
+
+### 26.03.2020 **speech-detection-20**
+* Using browser's speech detection to display words
