@@ -73,3 +73,6 @@
 
 ### 26.03.2020 **speech-detection-20**
 * Using browser's speech detection to display words
+
+### 27.03.2020 **geolocation-21**
+* Learned some new stuff in browser's geolocation
