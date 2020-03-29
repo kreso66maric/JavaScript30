@@ -76,3 +76,6 @@
 
 ### 27.03.2020 **geolocation-21**
 * Learned some new stuff in browser's geolocation
+
+### 28.03.2020 **follow-along-link-highlighter-22**
+* Learned about `getBoundingClientRect()` function to get coordinates and size of the element on a page
