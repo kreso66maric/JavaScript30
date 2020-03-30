@@ -79,3 +79,6 @@
 
 ### 28.03.2020 **follow-along-link-highlighter-22**
 * Learned about `getBoundingClientRect()` function to get coordinates and size of the element on a page
+
+### 29.03.2020 **speech-synthesis-23**
+* Learned how to use browser's speechSynthesis
