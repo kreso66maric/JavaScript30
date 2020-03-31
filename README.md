@@ -82,3 +82,6 @@
 
 ### 29.03.2020 **speech-synthesis-23**
 * Learned how to use browser's speechSynthesis
+
+### 30.03.2020 **sticky-nav-24**
+* Learned how to apply sticky nav in vanilla JavaScript
