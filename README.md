@@ -85,3 +85,6 @@
 
 ### 30.03.2020 **sticky-nav-24**
 * Learned how to apply sticky nav in vanilla JavaScript
+
+### 31.03.2020 **event-capture-propagation-bubbling-and-once-25**
+* Learned about event bubbling and event propagation
