@@ -88,3 +88,6 @@
 
 ### 31.03.2020 **event-capture-propagation-bubbling-and-once-25**
 * Learned about event bubbling and event propagation
+
+### 01.04.2020 **stripe-follow-along-nav-26**
+* Getting some more practise with element coordinates
