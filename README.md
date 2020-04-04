@@ -7,87 +7,90 @@
 
 # Learning Progress
 
-### 08.03.2020 **javascript-drum-kit-01**
+### 08.03.2020 **01-javascript-drum-kit**
 * How to work with `data` attributes in HTML
 * How to work with audio and video
 
-### 09.03.2020 **javascript-and-css-clock-02**
+### 09.03.2020 **02-javascript-and-css-clock**
 * Working with time in JavaScript
 * Learning more about how to combine CSS transform property with JavaScript
 
-### 10.03.2020 **css-variables-03**
+### 10.03.2020 **03-css-variables**
 * How to use CSS variables and update them in real-time using JavaScript
 * More practise with data attributes
 
-### 11.03.2020 **array-cardio-day-one-04**
+### 11.03.2020 **04-array-cardio-day-one**
 * Working with array methods
 * Practise array methods like map, filter, sort, reduce
 
-### 12.03.2020 **flex-pannel-gallery-05**
+### 12.03.2020 **05-flex-pannel-gallery**
 * I got more practise using flex-box
 * Learned how to toggle classes on elements using JavaScript
 
-### 13.03.2020 **ajax-type-ahead-06**
+### 13.03.2020 **06-ajax-type-ahead**
 * Learned how to take json data with promises and fetch method
 * and display the data on the page
 
-### 14.03.2020 **array-cardio-day-two-07**
+### 14.03.2020 **07-array-cardio-day-two**
 * Learned new array methods `.some()` `.every()` `.find()` and `.findIndex`
 
-### 15.03.2020 **fun-with-html5-canvas-08**
+### 15.03.2020 **08-fun-with-html5-canvas**
 * Learned some new mouse events
 * Get to practise some html5 canvas
 
-### 16.03.2020 **dev-tools-domination-09**
+### 16.03.2020 **09-dev-tools-domination**
 * Learned different console logs in developer tools
 
-### 17.03.2020 **hold-shift-and-check-checkboxes-10**
+### 17.03.2020 **10-hold-shift-and-check-checkboxes**
 * Had to wrap my head around `this` keyword
 
-### 18.03.2020 **custom-html5-video-player-11**
+### 18.03.2020 **11-custom-html5-video-player**
 * Learned how to implement video player options
 
-### 19.03.2020 **key-sequence-detection-12**
+### 19.03.2020 **12-key-sequence-detection**
 * Quick practise with key detections
 
-### 20.03.2020 **javascript-references-vs-copying-14**
+### 20.03.2020 **14-javascript-references-vs-copying**
 * Learned difference between reference vs copying in JavaScript
 * Learned spread operator
 
-### 21.03.2020 **local-storage-15**
+### 21.03.2020 **15-local-storage**
 * Learned how to store data in browser's local storage
 * Learned about event delegation
 
-### 22.03.2020 **mouse-move-shadow-16**
+### 22.03.2020 **16-mouse-move-shadow**
 * Learned ES6 destructuring
 
-### 23.03.2020 **sort-without-articles-17**
+### 23.03.2020 **17-sort-without-articles**
 * Learned more about sort method
 * Practiced some regEx
 
-### 24.03.2020 **adding-up-times-with-reduce-18**
+### 24.03.2020 **18-adding-up-times-with-reduce**
 * More practise on reduce method
 
-### 25.03.2020 **web-cam-fun-19**
+### 25.03.2020 **19-web-cam-fun**
 * Learned how to set up web cam in a project
 
-### 26.03.2020 **speech-detection-20**
+### 26.03.2020 **20-speech-detection**
 * Using browser's speech detection to display words
 
-### 27.03.2020 **geolocation-21**
+### 27.03.2020 **21-eolocation**
 * Learned some new stuff in browser's geolocation
 
-### 28.03.2020 **follow-along-link-highlighter-22**
+### 28.03.2020 **22-follow-along-link-highlighter**
 * Learned about `getBoundingClientRect()` function to get coordinates and size of the element on a page
 
-### 29.03.2020 **speech-synthesis-23**
+### 29.03.2020 **23-speech-synthesis**
 * Learned how to use browser's speechSynthesis
 
-### 30.03.2020 **sticky-nav-24**
+### 30.03.2020 **s24-ticky-nav**
 * Learned how to apply sticky nav in vanilla JavaScript
 
-### 31.03.2020 **event-capture-propagation-bubbling-and-once-25**
+### 31.03.2020 **25-event-capture-propagation-bubbling-and-once**
 * Learned about event bubbling and event propagation
 
-### 01.04.2020 **stripe-follow-along-nav-26**
+### 01.04.2020 **26-stripe-follow-along-nav**
 * Getting some more practise with element coordinates
+
+### 02.04.2020 **28-video-speed-controller**
+* Practise with mouse events and video playback speed
