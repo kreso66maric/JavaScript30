@@ -94,3 +94,6 @@
 
 ### 02.04.2020 **28-video-speed-controller**
 * Practise with mouse events and video playback speed
+
+### 03.04.2020 **29-countdown-timer**
+* Learned how to build a timer in JavaScript
