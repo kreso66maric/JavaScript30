@@ -50,53 +50,53 @@
 ### 19.03.2020 **12-key-sequence-detection**
 * Quick practise with key detections
 
-### 20.03.2020 **14-javascript-references-vs-copying**
+### 20.03.2020 **13-javascript-references-vs-copying**
 * Learned difference between reference vs copying in JavaScript
 * Learned spread operator
 
-### 21.03.2020 **15-local-storage**
+### 21.03.2020 **14-local-storage**
 * Learned how to store data in browser's local storage
 * Learned about event delegation
 
-### 22.03.2020 **16-mouse-move-shadow**
+### 22.03.2020 **15-mouse-move-shadow**
 * Learned ES6 destructuring
 
-### 23.03.2020 **17-sort-without-articles**
+### 23.03.2020 **16-sort-without-articles**
 * Learned more about sort method
 * Practiced some regEx
 
-### 24.03.2020 **18-adding-up-times-with-reduce**
+### 24.03.2020 **17-adding-up-times-with-reduce**
 * More practise on reduce method
 
-### 25.03.2020 **19-web-cam-fun**
+### 25.03.2020 **18-web-cam-fun**
 * Learned how to set up web cam in a project
 
-### 26.03.2020 **20-speech-detection**
+### 26.03.2020 **19-speech-detection**
 * Using browser's speech detection to display words
 
-### 27.03.2020 **21-eolocation**
+### 27.03.2020 **20-eolocation**
 * Learned some new stuff in browser's geolocation
 
-### 28.03.2020 **22-follow-along-link-highlighter**
+### 28.03.2020 **21-follow-along-link-highlighter**
 * Learned about `getBoundingClientRect()` function to get coordinates and size of the element on a page
 
-### 29.03.2020 **23-speech-synthesis**
+### 29.03.2020 **22-speech-synthesis**
 * Learned how to use browser's speechSynthesis
 
-### 30.03.2020 **s24-ticky-nav**
+### 30.03.2020 **23-sticky-nav**
 * Learned how to apply sticky nav in vanilla JavaScript
 
-### 31.03.2020 **25-event-capture-propagation-bubbling-and-once**
+### 31.03.2020 **24-event-capture-propagation-bubbling-and-once**
 * Learned about event bubbling and event propagation
 
-### 01.04.2020 **26-stripe-follow-along-nav**
+### 01.04.2020 **25-stripe-follow-along-nav**
 * Getting some more practise with element coordinates
 
-### 02.04.2020 **28-video-speed-controller**
+### 02.04.2020 **26-video-speed-controller**
 * Practise with mouse events and video playback speed
 
-### 03.04.2020 **29-countdown-timer**
+### 03.04.2020 **27-countdown-timer**
 * Learned how to build a timer in JavaScript
 
-### 04.04.2020 **30-whack-a-mole**
+### 04.04.2020 **28-whack-a-mole**
 * Learned how to build a small browser game
