@@ -97,3 +97,6 @@
 
 ### 03.04.2020 **29-countdown-timer**
 * Learned how to build a timer in JavaScript
+
+### 04.04.2020 **30-whack-a-mole**
+* Learned how to build a small browser game
